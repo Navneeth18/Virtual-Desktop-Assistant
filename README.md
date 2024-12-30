@@ -84,7 +84,8 @@ This Python-based Virtual Desktop Assistant is designed to automate routine desk
 3.  Run the assistant
    ```bash
    git clone https://github.com/Navneeth18/Virtual-Desktop-Assistant.git
-   pip install -r requirements.txt
+   cd Virtual-Desktop-Assistant
+   pip install pyautogui pyttsx3 speechrecognition pywhatkit wikipedia requests beautifulsoup4 playsound==1.2.2
    python main.py
    ```
 
