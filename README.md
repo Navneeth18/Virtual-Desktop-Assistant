@@ -71,7 +71,16 @@ This Python-based Virtual Desktop Assistant is designed to automate routine desk
 
 ---
 
-## Installation and Setup
+### Installation and Setup
+Install dependencies:
+    ```bash
+    pip install -r requirements.txt
+    ```
+Run the assistant:
+  ```bash
+  python main.py
+  ```
+
 
 ### Prerequisites
 - Python 3.7 or above installed on your system.
@@ -79,6 +88,6 @@ This Python-based Virtual Desktop Assistant is designed to automate routine desk
 ### Steps
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-       
+   git clone https://github.com/Navneeth18/Virtual-Desktop-Assistant.git
+   ```
 
