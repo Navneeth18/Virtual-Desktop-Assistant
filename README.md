@@ -85,6 +85,7 @@ This Python-based Virtual Desktop Assistant is designed to automate routine desk
    ```bash
    git clone https://github.com/Navneeth18/Virtual-Desktop-Assistant.git
    cd Virtual-Desktop-Assistant
+   pip install -r requirements.txt
    pip install pyautogui pyttsx3 speechrecognition pywhatkit wikipedia requests beautifulsoup4 playsound==1.2.2
    python main.py
    ```
